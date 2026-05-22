@@ -1,2 +1,3 @@
 # tamagotchijeje
-python proyecto
+proyecto personal pq ando aburrido jeje
+
